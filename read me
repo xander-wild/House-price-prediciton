@@ -1,0 +1,8 @@
+modules used in the ML model is 
+1. pandas as 
+2. numpy 
+3. matplotlib.pyplot 
+4. sklearn 
+
+you need to install all these modules first and prepare a csv file or you can use the csv file given in the programm the more extensive data the file have the more accurate 
+result you can find the programm will be keep improving with time 
